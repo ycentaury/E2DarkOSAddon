@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "***********************************"
+echo "*          E2DarkOSAddon          *"
+echo "*               by                *"
+echo "*          dream-alpha            *"
+echo "***********************************"
+echo ""
+echo "Plugin installed successfully."
+echo ""
+exit 0
