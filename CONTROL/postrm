@@ -1,0 +1,8 @@
+#!/bin/sh
+if [ "$1" = "remove" ]; then
+	echo "Removing E2_Darkos_Addon plugin from the system ..."
+	rm /etc/enigma2/skin_user_E2-DarkOS.xml > /dev/null 2>&1
+else
+	echo "do nothing"
+fi
+exit 0
