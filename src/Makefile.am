@@ -1,2 +1,2 @@
 installdir = /etc/enigma2
-install_DATA = *.xml
+install_DATA = *.xml LICENSE
